@@ -5,10 +5,13 @@ This is a project to bring back support for the remote effected by the may 27th 
 # The goals
  
 Restore functionality to add/edit new devices and activities
+
 Restore changing background for supported devices
+
 Allow cloning IR devices
 
-Current progress
+
+# Current progress
 
 ✅ Acquire device HIDs
 
