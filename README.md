@@ -9,7 +9,11 @@ Restore changing background for supported devices
 Allow cloning IR devices
 
 Current progress
+
 ✅ Acquire device HIDs
+
 ❌Reverse engineer driver
+
 ❌Spoof HID
+
 ❌Harmony software detection 
